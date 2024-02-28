@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Bam.pit-removebg-preview",
+  "identifier": "texture:5885-7605b2c4-b736-4ee0-9f25-d39f355e2106",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "b1f879ffcbe72372c91632f0fbe13bb6",
+  "assetLocator": "textures/Bam.pit-removebg-preview.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 375,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 666,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "b1f879ffcbe72372c91632f0fbe13bb6",
+      "colorCount": 8168,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 0.71461876119169,
+      "pixelsHigh": 375,
+      "pixelsWide": 666
+    }
+  ]
+}

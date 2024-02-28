@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Bam.tree-removebg-preview",
+  "identifier": "texture:6723-7605b2c4-b736-4ee0-9f25-d39f355e2106",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "2e17f6aaff4a6648113cc705073aeafa",
+  "assetLocator": "textures/Bam.tree-removebg-preview.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 375,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 666,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "2e17f6aaff4a6648113cc705073aeafa",
+      "colorCount": 17566,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 1.9716156949441768,
+      "pixelsHigh": 375,
+      "pixelsWide": 666
+    }
+  ]
+}
